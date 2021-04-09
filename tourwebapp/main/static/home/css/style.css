@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+    word-spacing: 2px;
+}
