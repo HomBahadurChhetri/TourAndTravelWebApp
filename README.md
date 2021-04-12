@@ -12,7 +12,7 @@ Django Framework and Bootstrap v5
 ### How to Setup
 
 1. Clone the repository
-2. Create and activate a virtual environment using pipenv by running: pipenv shell
+2. Create and activate a virtual environment using pipenv by running in cmd: pipenv shell
 3. Install the dependencies by running: pipenv install --dev
-4. Create a superuser by: python manage.py runserver
-5. To run the development server run: python manage.py runserver
+4. Go inside the project folder by: cd tourwebapp
+6. To run the development server run: python manage.py runserver
