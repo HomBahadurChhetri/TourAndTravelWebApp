@@ -38,6 +38,10 @@
   box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
 }
 
+/* contact info text align here */
+.contact-info{
+  text-align: center;
+}
 
 
 /* This is the footer css */
